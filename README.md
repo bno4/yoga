@@ -1,3 +1,3 @@
 # yoga
 ### P.O.O application yoga en JS
-© FromScratch
+Exercice du cours sur JS de  FromScratch => https://fromscratch.podia.com/
